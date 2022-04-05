@@ -1,0 +1,21 @@
+D:\Workspace\Projects\BMI\BMI\bin\Debug\BMI.exe.config
+D:\Workspace\Projects\BMI\BMI\bin\Debug\BMI.exe
+D:\Workspace\Projects\BMI\BMI\bin\Debug\BMI.pdb
+D:\Workspace\Projects\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+D:\Workspace\Projects\BMI\BMI\obj\Debug\BMI.Form1.resources
+D:\Workspace\Projects\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+D:\Workspace\Projects\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.Cache
+D:\Workspace\Projects\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\Workspace\Projects\BMI\BMI\obj\Debug\BMI.exe
+D:\Workspace\Projects\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\shuja\My Drive\Workspace\Archive\Archive\Projects\Desktop\BMI\BMI\obj\Debug\BMI.pdb
